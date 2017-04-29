@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.bottom-buffer {
+	margin-bottom: 20px;
+}
+
+.no-horizontal-resize {
+	resize: vertical;
+}
+
+#banner {
+    background-image: url(../images/sowa_banner.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #45413d;
+    background-attachment: fixed;
+    color: #cecbca;
+}
+
+#banner h1 {
+	text-align: center;
+	font-weight: bold;
+}
+
